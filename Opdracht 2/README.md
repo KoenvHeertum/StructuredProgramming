@@ -5,6 +5,7 @@ Zoals ik al had gemailed, is dit dezelfde inlevering die ik 2 jaar geleden heb g
 Dit betekent dat de opdracht gedaan is met Amaryllis Lee, Floris Videler en Ruben van Raaij. 
 Alle 3 de studenten zitten nu in de 3e. Ik heb de gitrepo geforked van Ruben's github en de bestanden opnieuw geupload. 
 Verder ben ik niet aan de bestanden geweest.
+https://github.com/GameModes/-HU-1ATeam1
 
 Deze opdracht is destijds door Rik Boss nagekeken, de oud-AI docent die ook de video's voor het vak heeft opgenomen. 
 Ik zal zijn feedback op deze opdracht onderin het bestand toevoegen. 
